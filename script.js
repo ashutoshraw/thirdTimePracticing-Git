@@ -1,2 +1,3 @@
+import axios from "axios";
 console.log('hi');
-console.log(object);
+console.log('hi');
