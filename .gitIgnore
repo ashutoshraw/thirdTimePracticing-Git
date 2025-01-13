@@ -1,3 +1,5 @@
 .env
 .enb
 node_modules
+.parcel-cache
+dist
